@@ -1,0 +1,46 @@
+/* Global */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: auto;
+    background: #f0f0f0;
+}
+
+.container {
+    width: 85%;
+    overflow: hidden;
+}
+
+.title {
+    margin-bottom: 1.5rem;
+}
+
+/* Navbar */
+.navbar-brand {
+    color: #f18136;
+    font-size: 1.5em;
+    margin-left: 2em;
+}
+
+.navbar-nav {
+    margin-right: 2em;
+}
+
+/* Cards */
+
+
+/* File Input */
+input[type="file"] {
+    display: none;
+}
+
+#warning-text {
+    color: red;
+}
+
+.testing-tbl {
+    border: 1px red solid;
+}
